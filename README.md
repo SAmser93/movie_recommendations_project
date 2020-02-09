@@ -46,7 +46,7 @@ Section under construction
 
 ## Built With
 
-* [Pandas](https://pandas.pydata.org/) - it's dataframe used in models
+* [pandas](https://pandas.pydata.org/) - it's dataframe used in models
 * [sklearn](https://scikit-learn.org/stable/) - used for models creation
 * [Flask](https://www.palletsprojects.com/p/flask/) - used for models backend
 * [Node.js](https://nodejs.org/en/) - used to build front-end application
@@ -56,7 +56,7 @@ Section under construction
 
 * **Evgenii Suharev** - *Initial work* - [SAmser93](https://github.com/SAmser93)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SAmser93/movie_recommendations_project/graphs/contributors) who participated in this project.
 
 ## License
 
